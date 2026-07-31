@@ -21,7 +21,11 @@ Results-driven Data Analyst and MIS graduate (Very Good with Honors, 2024). I sp
 ### 2. 🤖 [Multi-Channel AI Ordering System](https://github.com/montseressam9-tech/n8n-ai-multi-channel-ordering-system)
 * Engineered an automated n8n pipeline integrated with **Llama 3 (Groq API)**, Telegram, and Facebook Messenger.
 * Implemented strict Egyptian phone validation logic and reduced order processing latency by **75%**.
+---
 
+> 💡 **Note:** These are selected showcase projects. I have **10+ end-to-end analytics & automation projects** published on LinkedIn—including an **n8n Inventory Management Bot** (stock add/pull & automated low-stock warnings), plus extensive **Power BI, SQL, and Python** case studies.
+> 
+> 🔗 **Explore my full portfolio & video demos here:** [Gaber Essam on LinkedIn](https://www.linkedin.com/in/gaber-essam-gaber-29ba78223)
 ---
 
 ## 📬 Connect with Me
